@@ -1,4 +1,4 @@
-generator
+generato
 =========
 
 Generates projects
