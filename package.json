@@ -1,6 +1,6 @@
 {
   "name": "generato",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generates projects",
   "main": "index.js",
   "dependencies": {
