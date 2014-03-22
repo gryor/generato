@@ -1,0 +1,27 @@
+{
+  "name": "generator",
+  "version": "0.0.1",
+  "description": "Generates projects",
+  "main": "index.js",
+  "dependencies": {
+    "async": "~0.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilhelmmatilainen/generator.git"
+  },
+  "keywords": [
+    "generate",
+    "project"
+  ],
+  "author": "Wilhelm Matilainen",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wilhelmmatilainen/generator/issues"
+  },
+  "homepage": "https://github.com/wilhelmmatilainen/generator"
+}
